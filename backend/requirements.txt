@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+cryptography
+pydantic>=2.9.0
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+python-dotenv
+groq
+Pillow
+requests
