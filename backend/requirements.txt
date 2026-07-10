@@ -1,7 +1,8 @@
 fastapi
 uvicorn[standard]
 sqlalchemy
-pymysql
+pymysql==1.1.1
+psycopg2-binary
 cryptography
 pydantic>=2.9.0
 passlib[bcrypt]
